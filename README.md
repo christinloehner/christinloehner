@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/christinloehner/christinloehner/blob/latest/github-metrics.svg)
+![Metrics](https://github.com/christinloehner/christinloehner/blob/main/github-metrics.svg)
