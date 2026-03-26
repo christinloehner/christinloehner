@@ -2,9 +2,9 @@
 
 Infrastructure engineer and Linux user since 1998 — back when configuring X11 was a personality test.
 
-I manage ~45 Ubuntu servers, wrangling Docker, Traefik, GitLab CI/CD and Ansible. At home: a full homelab, ESP32 maker projects, and Home Assistant with hundreds of devices.
+I manage ~45 Ubuntu servers, wrangling Docker, Traefik, GitLab CI/CD and Ansible. At home: a full homelab, ESP32 maker projects, and Home Assistant with hundreds of devices - because... why not.
 
-🏳️‍⚧️ Trans woman · Activist · Chairwoman of [VDGE e.V.](https://vdge.de) · Running **[lsbt.me](https://lsbt.me)**, a safe-space Mastodon instance for the LGBTQ+ community.
+🏳️‍⚧️ Trans woman · Activist · Feminist · Author · Founder and Maintainer of **[FediSzute](https://www.fedisuite.com)** · Running **[lsbt.me](https://lsbt.me)**, a safe-space Mastodon instance for the LGBTQ+ community.
 
 Antifascist blogger writing fact-heavy, no-nonsense pieces on politics, digital sovereignty and human rights. In German. With teeth.
 
